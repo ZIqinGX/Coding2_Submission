@@ -3,7 +3,10 @@ This is the repository for my Coding2 homework Element one
 ### Labwork1 Openframework+Addon (audio+visual effect)
 The Labwork1 is a project using addon in Openframework. It is an audio + visual art work. 
 
-#### For video link: 
+#### For Panopto video link: 
+https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6d3d45db-8276-44f9-a32f-afc500ee7efc
+
+#### For Youtube video link: 
 https://youtu.be/eCiless3Y4w
 
 
