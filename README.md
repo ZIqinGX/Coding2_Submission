@@ -3,7 +3,9 @@ This is the repository for my Coding2 homework Element one
 ### Labwork1 Openframework+Addon (audio+visual effect)
 The Labwork1 is a project using addon in Openframework. It is an audio + visual art work. 
 
-#### For video link:https://youtu.be/eCiless3Y4w
+#### For video link: 
+https://youtu.be/eCiless3Y4w
+
 
 ![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork1Openframework%2BAddon/Lab1_01%20(1).png) 
 
@@ -12,11 +14,15 @@ One of the addons used is ofxMaxiliam. It generate the sound in this work. I dow
 Another addon is ofxVectorGraphics. I found it in example of openframework. It controls the change of visual part.
 ### Labwork2 Openframework communicate with Arduino  (audio+visual effect)
 
+#### For video link: 
+
+https://youtu.be/fKT_Aaedpac
+
+https://youtu.be/IcGC20XIzvU
+
 Labwork2 is a project based on communication of Arduino and openframework.
 
 ![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork2Arduino%2BOpenframework/Arduino_and_Oenframework3.jpg) 
-
-
 
 
 ### Labwork3 Python challenge (python puzzles)
