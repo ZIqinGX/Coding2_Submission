@@ -17,6 +17,12 @@ One of the addons used is ofxMaxiliam. It generate the sound in this work. I dow
 Another addon is ofxVectorGraphics. I found it in example of openframework. It controls the change of visual part.
 ### Labwork2 Openframework communicate with Arduino  (audio+visual effect)
 
+#### For Panopto video link: 
+https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9def4611-0943-4c87-919c-afc500ee9a86
+
+https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a11193dd-5113-460e-a040-afc500ee9c64
+
+
 #### For video link: 
 
 https://youtu.be/fKT_Aaedpac
