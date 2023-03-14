@@ -20,3 +20,9 @@ Labwork2 is a project based on communication of Arduino and openframework.
 ### Labwork3 Python challenge (python puzzles)
 In this homework, I designed four puzzles needed to be solved by python. The puzzles here require the use of sorting in Python, searching in order, printing the results, finding information in specified rows and columns, converting to ASCII using Python, and operating on stacks.
 ![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork3_Pythonchallenge/cover.png) 
+
+### Labwork4 Python Iamge dataset exercise (python average pics)
+
+
+![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork4_PythonImagedata_exercise/pic.png) 
+![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork4_PythonImagedata_exercise/pic2.png) 
