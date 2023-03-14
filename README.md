@@ -51,5 +51,7 @@ In  this python image exercise, I tried download 60 pictures with same theme--fl
 
 ![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork4_PythonImagedata_exercise/pic.png) 
 ![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork4_PythonImagedata_exercise/pic2.png) 
+
 ## Reference
 https://github.com/micknoise/Maximilian
+https://maker.pro/arduino/projects/how-to-send-and-receive-data-through-the-openframeworks-platform-using-arduino
