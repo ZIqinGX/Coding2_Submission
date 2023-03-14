@@ -1,4 +1,4 @@
-# Coding2_Submission
+# Coding2_Labworks_Submission
 This is the repository for my Coding2 homework Element one
 ### Labwork1 Openframework+Addon (audio+visual effect)
 The Labwork1 is a project using addon in Openframework. It is an audio + visual art work. 
