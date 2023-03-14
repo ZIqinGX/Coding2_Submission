@@ -2,6 +2,7 @@
 This is the repository for my Coding2 homework Element one
 ### Labwork1 Openframework+Addon (audio+visual effect)
 The Labwork1 is a project using addon in Openframework. It is an audio + visual art work. 
+For video link:
 
 ![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork1Openframework%2BAddon/Lab1_01%20(1).png) 
 
@@ -27,7 +28,8 @@ In this homework, I designed four puzzles needed to be solved by python. The puz
 
 ### Labwork4 Python Iamge dataset exercise (python average pics)
 
-In  this python image exercise, I tried download 60 pictures with same theme--flowers with python, svaed them into a new directory. Then average them with different numpy functions. I tried different numbers of source images with same function and I also added some decimal numbers to the original operations, and added the results obtained from different numpy functions together to generate a new image and create different effects.
+In  this python image exercise, I tried download 60 pictures with same theme--flowers with python, svaed them into a new directory. Then average them with different numpy functions. I tried different numbers of source images with same function and I also added some decimal numbers to the original operations, and added the results obtained from different numpy functions together to generate a new image and create different effects. The following are two of them, you can open my jupyternotebook for more effects
+
 
 ![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork4_PythonImagedata_exercise/pic.png) 
 ![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork4_PythonImagedata_exercise/pic2.png) 
