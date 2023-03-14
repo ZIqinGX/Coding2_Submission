@@ -38,6 +38,8 @@ Labwork2 is a project based on communication of Arduino and openframework.
 
 
 In this homework, I designed four puzzles needed to be solved by python. The puzzles here require the use of sorting in Python, searching in order, printing the results, finding information in specified rows and columns, converting to ASCII using Python, and operating on stacks.
+For complete Python challenge, you can check jupyter notebook
+
 ![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork3_Pythonchallenge/cover.png) 
 
 
