@@ -11,3 +11,12 @@ Another addon is ofxVectorGraphics. I found it in example of openframework. It c
 ### Labwork2 Openframework communicate with Arduino  (audio+visual effect)
 
 Labwork2 is a project based on communication of Arduino and openframework.
+
+![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork2Arduino%2BOpenframework/Arduino_and_Oenframework3.jpg) 
+
+
+
+
+### Labwork3 Python challenge (python puzzles)
+In this homework, I designed four puzzles needed to be solved by python. The puzzles here require the use of sorting in Python, searching in order, printing the results, finding information in specified rows and columns, converting to ASCII using Python, and operating on stacks.
+![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork3_Pythonchallenge/cover.png) 
