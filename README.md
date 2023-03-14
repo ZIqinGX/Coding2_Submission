@@ -2,7 +2,8 @@
 This is the repository for my Coding2 homework Element one
 ### Labwork1 Openframework+Addon (audio+visual effect)
 The Labwork1 is a project using addon in Openframework. It is an audio + visual art work. 
-For video link:
+
+#### For video link:https://youtu.be/eCiless3Y4w
 
 ![图片名称](https://github.com/ZIqinGX/Coding2_Submission/blob/main/Labwork1Openframework%2BAddon/Lab1_01%20(1).png) 
 
